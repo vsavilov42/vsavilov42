@@ -1,6 +1,10 @@
 # Welcome to my profile 🏅
 
-I am a student from 42Madrid, for now I am learning programming mainly in the C language.
+- C/C++ programer.
+- Learning cibersecurity.
+- Red team and offensive security.
+- HackTheBox enjoyer.
+- Link to my page:
 
 # Enjoy my git profile 😁
 
