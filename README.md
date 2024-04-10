@@ -4,4 +4,4 @@
 - Learning cibersecurity.
 - Red team and offensive security.
 - HackTheBox enjoyer.
-- Link to my page: [https://vsavilov42.github.io]vsavilov42.github.io
+- Link to my page: vsavilov42.github.io
